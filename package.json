@@ -1,0 +1,9 @@
+{
+	"name": "05-rtc-janus",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.html",
+	"scripts": {
+		"start": "nw ."
+	}
+}
